@@ -1,5 +1,0 @@
----
-title: "YOUR-TITLE"
-date: 2026-04-24
----
- 
